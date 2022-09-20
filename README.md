@@ -46,7 +46,7 @@ Video call link: https://meet.google.com/hca-zvby-tfo
 - [ ] to do list
 - [ ] 2nd
 - [x] done
-
+.
 ---
 
 
