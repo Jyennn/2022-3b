@@ -11,3 +11,20 @@ Monday,  13:30 – 16:30
 Google Meet joining info
 Video call link: https://meet.google.com/hca-zvby-tfo
 ```
+---
+[NKUST](https://www.nkust.edu.tw/)
+
+---
++ red
++ blue 
++ green
+
+* AAA
+* BBB
+* CCC
+
+- black
+- yellow
+- pink
+
+---
