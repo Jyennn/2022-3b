@@ -49,4 +49,18 @@ Video call link: https://meet.google.com/hca-zvby-tfo
 .
 ---
 
+JavaScript
+```javascript
+function myFunction(p1, p2) {
+  return p1 * p2;   // The function returns the product of p1 and p2
+}
+```
+
+---
+
+Python
+```python
+def my_function():
+  print("Hello from a function")
+```
 
