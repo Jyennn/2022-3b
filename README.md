@@ -41,3 +41,12 @@ Video call link: https://meet.google.com/hca-zvby-tfo
 
 ![NKUST](nkust.png "NKUST")
 
+--- 
+
+- [ ] to do list
+- [ ] 2nd
+- [x] done
+
+---
+
+
