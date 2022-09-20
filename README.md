@@ -64,3 +64,19 @@ def my_function():
   print("Hello from a function")
 ```
 
+---
+>1st 
+>> 1.1
+>>> 1.2
+
+>2nd
+>> 2.1
+>>> 2.2
+
+---
+| MarkDown        | Less           | Pretty  |
+| ------------- |:-------------:| -----:|
+| *Still*         | **Render**   | ~Excellent~ |
+| 1      | 2      |   3 |
+
+
