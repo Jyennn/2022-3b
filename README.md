@@ -39,4 +39,5 @@ Video call link: https://meet.google.com/hca-zvby-tfo
 
 ---
 
+![NKUST](nkust.png "NKUST")
 
