@@ -28,3 +28,15 @@ Video call link: https://meet.google.com/hca-zvby-tfo
 - pink
 
 ---
+<https://docs.google.com/document/d/1FYCc3NVY7s0kLOhmK065RSIAA6jiZxkNjgtti3HtSYQ/edit>
+
+---
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| 🐷           | 🐯            | 🐼 |
+| 第二欄        | 置中對齊      |   $12 |
+| 斑馬條紋      | 是整齊的      |    $1 |
+
+---
+
+|
