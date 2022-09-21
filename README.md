@@ -75,7 +75,7 @@ def my_function():
 
 ---
 | MarkDown        | Less           | Pretty  |
-| ------------- |:-------------:| -----:|
+| :-------|:---------| :-----|
 | *Still*         | **Render**   | ~Excellent~ |
 | 1      | 2      |   3 |
 
@@ -84,3 +84,6 @@ def my_function():
 1. AAA
 2. BBB
 3. CCC
+
+---
+
