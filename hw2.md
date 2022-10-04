@@ -5,4 +5,5 @@
 ![](graph.png "Gantt Graph")
 
 ## Pert Chart
+![](pert.png "Pert Chart")
 
